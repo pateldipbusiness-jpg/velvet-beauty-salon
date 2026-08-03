@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 560 140">
+<defs><linearGradient id="g" x1="0" x2="1"><stop stop-color="#d8a178"/><stop offset="1" stop-color="#9b3f67"/></linearGradient></defs>
+<circle cx="70" cy="70" r="56" fill="#251523"/><path d="M34 37l36 72 36-72-15 0-21 43-21-43z" fill="url(#g)"/>
+<text x="145" y="68" font-family="Georgia,serif" font-size="44" font-weight="700" fill="#251523">VELVET</text>
+<text x="147" y="103" font-family="Arial,sans-serif" font-size="20" letter-spacing="6" fill="#9b3f67">BEAUTY SALON</text>
+</svg>
